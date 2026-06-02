@@ -1,7 +1,7 @@
 # 💫 About Me:
 About Me<br><br>Hi, I'm Julieta 👋<br>I am a Frontend Developer with 6 years of experience in HTML, CSS, JavaScript, and React.<br>I have developed websites and web applications through training and personal projects, and I hold certificates in web development.<br>I am deaf, which has helped me develop strong focus, problem-solving skills, and attention to detail.<br>I am currently looking for remote opportunities where I can contribute my skills and continue growing as a web developer.<br>I enjoy creating websites for businesses such as restaurants, ice cream shops, clothing stores, and other types of companies.<br>My goal is to keep learning and building modern, user-friendly web applications
 
-<img src="./images/banner.png" alt="Banner" />
+<img src="./images/logos5.png" alt="logos5" />
 
 
 ## 🌐 Socials:
